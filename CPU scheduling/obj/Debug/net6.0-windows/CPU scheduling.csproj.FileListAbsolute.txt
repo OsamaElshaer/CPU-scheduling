@@ -1,0 +1,17 @@
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\bin\Debug\net6.0-windows\CPU scheduling.exe
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\bin\Debug\net6.0-windows\CPU scheduling.deps.json
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\bin\Debug\net6.0-windows\CPU scheduling.runtimeconfig.json
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\bin\Debug\net6.0-windows\CPU scheduling.dll
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\bin\Debug\net6.0-windows\CPU scheduling.pdb
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.csproj.AssemblyReference.cache
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU_scheduling.Form1.resources
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.csproj.GenerateResource.cache
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.AssemblyInfoInputs.cache
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.AssemblyInfo.cs
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.dll
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\refint\CPU scheduling.dll
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.pdb
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\CPU scheduling.genruntimeconfig.cache
+C:\Users\osama\Desktop\CPU scheduling\CPU scheduling\obj\Debug\net6.0-windows\ref\CPU scheduling.dll
