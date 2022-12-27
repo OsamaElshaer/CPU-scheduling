@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.FCFS_button = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.SJF_button = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -61,6 +61,7 @@
             this.CPU_lable = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // FCFS_button
@@ -74,15 +75,16 @@
             this.FCFS_button.UseVisualStyleBackColor = false;
             this.FCFS_button.Click += new System.EventHandler(this.FCFS_button_Click);
             // 
-            // button2
+            // SJF_button
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button2.Location = new System.Drawing.Point(241, 376);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(103, 43);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "SJF";
-            this.button2.UseVisualStyleBackColor = false;
+            this.SJF_button.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.SJF_button.Location = new System.Drawing.Point(241, 376);
+            this.SJF_button.Name = "SJF_button";
+            this.SJF_button.Size = new System.Drawing.Size(103, 43);
+            this.SJF_button.TabIndex = 1;
+            this.SJF_button.Text = "SJF";
+            this.SJF_button.UseVisualStyleBackColor = false;
+            this.SJF_button.Click += new System.EventHandler(this.SJF_button_Click);
             // 
             // button3
             // 
@@ -339,6 +341,10 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // timer2
+            // 
+            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -374,7 +380,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.SJF_button);
             this.Controls.Add(this.FCFS_button);
             this.Name = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -383,10 +389,15 @@
 
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+           
+        }
+
         #endregion
 
         private Button FCFS_button;
-        private Button button2;
+        private Button SJF_button;
         private Button button3;
         private Button button4;
         private TextBox textBox1;
@@ -417,5 +428,6 @@
         private Label CPU_lable;
         private Label label12;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Timer timer2;
     }
 }

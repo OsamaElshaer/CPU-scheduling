@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osama\\Desktop\\CPU scheduling\\CPU scheduling\\CPU scheduling.csproj": {}
+    "C:\\Users\\osama\\Desktop\\CPU-scheduling\\CPU scheduling\\CPU scheduling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osama\\Desktop\\CPU scheduling\\CPU scheduling\\CPU scheduling.csproj": {
+    "C:\\Users\\osama\\Desktop\\CPU-scheduling\\CPU scheduling\\CPU scheduling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osama\\Desktop\\CPU scheduling\\CPU scheduling\\CPU scheduling.csproj",
+        "projectUniqueName": "C:\\Users\\osama\\Desktop\\CPU-scheduling\\CPU scheduling\\CPU scheduling.csproj",
         "projectName": "CPU scheduling",
-        "projectPath": "C:\\Users\\osama\\Desktop\\CPU scheduling\\CPU scheduling\\CPU scheduling.csproj",
+        "projectPath": "C:\\Users\\osama\\Desktop\\CPU-scheduling\\CPU scheduling\\CPU scheduling.csproj",
         "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osama\\Desktop\\CPU scheduling\\CPU scheduling\\obj\\",
+        "outputPath": "C:\\Users\\osama\\Desktop\\CPU-scheduling\\CPU scheduling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
